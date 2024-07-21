@@ -1,4 +1,4 @@
-# Classification-with-Python-Meteorology-
+# Classification-with-Python-Meteorology | Rain Prediction in Australia
 
 ### use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metric
 
