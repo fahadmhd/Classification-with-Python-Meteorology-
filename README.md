@@ -1,6 +1,6 @@
 # Classification-with-Python-Meteorology-
 
-# use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metric
+### use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metric
 
 ## use some of the algorithms, specifically:
 
