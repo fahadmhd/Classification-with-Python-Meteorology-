@@ -13,13 +13,13 @@ For this case study, the original source of the data is Australian Government's 
 
 ### evaluate our models using:
 
-*Accuracy Score
-*Jaccard Index
-*F1-Score
-*LogLoss
-*Mean Absolute Error
-*Mean Squared Error
-*R2-Score
+* Accuracy Score
+* Jaccard Index
+* F1-Score
+* LogLoss
+* Mean Absolute Error
+* Mean Squared Error
+* R2-Score
 
 The following analysis matrix is constructed in this case study.
 
